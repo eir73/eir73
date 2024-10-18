@@ -1,5 +1,7 @@
 
-👋 Hey there! I'm **Daniil Kholodkov**, a Frontend Developer with 4.5 years of experience in **Vue.js** and **Node.js**. I love building web apps that are fast, scalable, and fun to use. Always exploring new ways to improve performance and streamline development workflows.  
+##👋 Hey there!
+
+I'm **Daniil Kholodkov**, a Frontend Developer with 4.5 years of experience in **Vue.js** and **Node.js**. I love building web apps that are fast, scalable, and fun to use. Always exploring new ways to improve performance and streamline development workflows.  
 📍 Based in **Kyiv, Ukraine** | Open to **Remote/Hybrid** work.
 
 ---
