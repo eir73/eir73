@@ -20,9 +20,8 @@ I'm **Daniil Kholodkov**, a Frontend Developer with 4.5 years of experience in *
 - **Frontend**: Vue.js, HTML5, CSS3, JavaScript, Tailwind, WebSockets
 - **Backend**: Node.js, Express.js, Axios
 - **DevOps**: Docker, Jenkins, GitOps, CI/CD pipelines
-- **Cloud**: Google Cloud, Firebase, Vercel
-- **Tools**: Webpack, Gulp, Chart.js, Sentry
-- **Languages**: English (B1)
+- **Cloud**: Google Cloud, Firebase, Cloudflare, Vercel
+- **Languages**: English (B2)
 
 ---
 
