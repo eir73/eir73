@@ -35,6 +35,6 @@ I'm **Daniil Kholodkov**, a Frontend Developer with 4.5 years of experience in *
 
 ## 📫 Let’s Connect
 
-- LinkedIn: [Daniil Kholodkov](https://www.linkedin.com)  
+- LinkedIn: [Daniil Kholodkov](https://www.linkedin.com/in/daniil-kholodkov/)  
 - Telegram: [@eir73](https://t.me/eir73)  
 - Email: [kholodkov.d.y@gmail.com](mailto:kholodkov.d.y@gmail.com)
